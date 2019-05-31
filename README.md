@@ -1,4 +1,4 @@
-# hello-world
+# Front-End Developer Challenge
 
 ## Project setup
 ```
@@ -24,6 +24,13 @@ npm run test
 ```
 npm run lint
 ```
+### Support Vue CLI
+```
+vue ui
+```
+### Libraries
+Material Design UI with [VuetifyJS](https://vuetifyjs.com/en/) 
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
